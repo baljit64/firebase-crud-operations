@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+#visit the url to view 
+https://database-table1.web.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
